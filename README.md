@@ -1,6 +1,7 @@
 # flowers-tpu
 
-Train and infer models using Google v3-8 TPUs.
+* Train and infer models using Google v3-8 TPUs.
+* The notebook gives a good explanation as well.
 
 ## About TPUs
 * TPUs are powerful hardware accelerators specialized in deep learning tasks. They were developed (and first used) by Google to process large image databases, such as extracting all the text from Street View. The latest Tensorflow release (TF 2.1) was focused on TPUs and they’re now supported both through the Keras high-level API and at a lower level, in models using a custom training loop. 
